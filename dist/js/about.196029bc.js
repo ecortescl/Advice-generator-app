@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadvice_generator_app"]=self["webpackChunkadvice_generator_app"]||[]).push([[443],{7381:function(a,e,n){n.r(e),n.d(e,{default:function(){return d}});var r=n(3396);const t={class:"about"},u=(0,r._)("h1",null,"This is an about page",-1),c=[u];function s(a,e){return(0,r.wg)(),(0,r.iD)("div",t,c)}var i=n(89);const o={},p=(0,i.Z)(o,[["render",s]]);var d=p}}]);
+//# sourceMappingURL=about.196029bc.js.map
